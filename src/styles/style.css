@@ -1,0 +1,47 @@
+/* Estilo geral */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 20px;
+    background-color: #f4f4f4;
+}
+
+/* Título principal da página */
+h1 {
+    text-align: center;
+    color: #333;
+    margin-bottom: 40px;
+}
+
+/* Container de cada filme */
+.filme {
+    background-color: #fff;
+    margin: 20px auto;
+    padding: 20px;
+    max-width: 600px;
+    border-radius: 10px;
+    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+    text-align: center;
+}
+
+/* Título de cada filme */
+.filme h2 {
+    font-size: 1.5em;
+    color: #222;
+    margin-bottom: 15px;
+}
+
+/* Imagem do filme */
+.filme img {
+    width: 100%;
+    height: auto;
+    border-radius: 10px;
+    margin-bottom: 15px;
+}
+
+/* Descrição do filme */
+.filme p {
+    font-size: 1em;
+    color: #555;
+    line-height: 1.5;
+}
